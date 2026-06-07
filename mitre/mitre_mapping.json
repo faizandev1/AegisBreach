@@ -1,0 +1,11 @@
+{
+  "SYN Flood": "T1498.001",
+  "HTTP/2 Rapid Reset": "T1498.002",
+  "TLS Slowloris": "T1499.002",
+  "GraphQL Batch Abuse": "T1499.003",
+  "gRPC Overload": "T1499.004",
+  "ARP Spoofing": "T1557.002",
+  "WiFi Deauth": "T1464",
+  "WiFi Beacon Flood": "T1464",
+  "AI Evasion": "T1548"
+}
